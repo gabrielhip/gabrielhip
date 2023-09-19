@@ -23,5 +23,6 @@ Tenho experiência em diversas áreas da programação e desenvolvimento de soft
 Sinta-se à vontade para entrar em contato comigo através do GitHub ou por meio das seguintes redes sociais:
 
 - LinkedIn: [Gabriel Hipólito](https://www.linkedin.com/in/gabriel-hip%C3%B3lito-63a751148/)
+- Instagram: [@gabrielhip98](https://www.instagram.com/gabrielhip98/)
 
 Ficarei feliz em colaborar em projetos interessantes e trocar experiências com outros desenvolvedores. Vamos construir coisas incríveis juntos!
